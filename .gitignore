@@ -177,3 +177,8 @@ pyrightconfig.json
 .idea
 
 # End of https://www.toptal.com/developers/gitignore/api/python
+
+
+# Added by cargo
+
+/target
